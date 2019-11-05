@@ -104,6 +104,7 @@ h4, h5, h6 {
 }
 h3 a{
     float:right;
+    font-size: small;
 }
 
 /* Body text */
