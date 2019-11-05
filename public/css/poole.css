@@ -102,6 +102,9 @@ h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }
+h3 a{
+    float:right;
+}
 
 /* Body text */
 p {
@@ -118,6 +121,12 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+li {
+  font-weight: bold;
+  list-style-type: disc;
+  padding-bottom: 0;
 }
 
 dt {
