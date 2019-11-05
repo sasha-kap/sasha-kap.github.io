@@ -123,6 +123,7 @@ ul, ol, dl {
 li {
   font-weight: bold;
   list-style-type: disc;
+  padding-bottom: 0;
 }
 
 dt {
