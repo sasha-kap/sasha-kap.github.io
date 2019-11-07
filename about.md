@@ -14,7 +14,7 @@ results and recommendations to non-technical audiences, managing project teams, 
 * Contributed to and was named in acknowledgments on four published research [articles](https://scholar.google.com/citations?user=B8IBA9gAAAAJ&hl=en)
 * Supervised and mentored six junior programmer analysts and interns, assigning schedules and procedures for completion of work
 * Taught weekly Statistics lab session to a class of 27 undergraduate students
-* Active as an answerer on [StackExchange](https://stackexchange.com/users/13836144) sites (Programming, Economics, Stastics, Data Science)
+* Active as an answerer on [StackExchange](https://stackexchange.com/users/13836144) sites (Programming, Economics, Statistics, Data Science)
 
 While completing a **Python & deep learning** data science internship at a computer vision startup, I am now on the lookout for exciting opportunities where I can leverage my skillset to derive actionable insights from data and to help build data-based products.
 
