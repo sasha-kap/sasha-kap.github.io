@@ -3,28 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a data scientist who comes from the **Econometrics and Statistics** background, but who is constantly expanding technical and analytical skills through coursework, projects, and self-learning.  I may even hold the record for most universities at which one has taken a course, with seven!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+After completing my Master's in Economics, I worked for five years as a senior healthcare policy and data analyst at [Acumen](https://www.acumenllc.com), an established government consulting firm with access to the full universe of Medicare fee-for-service claims and enrollment data, as well as other provider, clinical, financial, and survey data.  I specialized in statistical programming using multiple statistical packages, and led programming efforts to investigate the effects of various healthcare interventions (Medicare payment policies, purchasing incentives, indicators of patient socioeconomic status, and weather emergencies) on service utilization and outcomes of chronic disease beneficiaries.
 
-There are currently two themes built on Poole:
+I also really enjoy the story-telling, teamwork, and mentoring aspects of my data science work and bring value through productive collaboration with clients and other stakeholders, presenting
+results and recommendations to non-technical audiences, managing project teams, and teaching:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Presented results of team’s work at annual CMS Quality Conference in Baltimore, MD in December 2014
+* Contributed to and was named in acknowledgments on four published research [articles](https://scholar.google.com/citations?user=B8IBA9gAAAAJ&hl=en)
+* Supervised and mentored six junior programmer analysts and interns, assigning schedules and procedures for completion of work
+* Taught weekly Statistics lab session to a class of 27 undergraduate students
+* Active as an answerer on [StackExchange](https://stackexchange.com/users/13836144) sites (Programming, Economics, Stastics, Data Science)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+While completing a **Python & deep learning** data science internship at a computer vision startup, I am now on the lookout for exciting opportunities where I can leverage my skillset to derive actionable insights from data and to help build data-based products.
 
-## Setup
+In my spare time, I really enjoy travel and photography and invite you to check out some of my photos in the [Photo Gallery](https://sasha-kap.github.io/gallery).
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you are interested in networking or collaborating, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sasha-kapralov).
 
 Thanks for reading!
