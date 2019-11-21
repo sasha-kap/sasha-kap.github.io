@@ -67,7 +67,7 @@ While completing my deep learning project using AWS services, I spent a good amo
   </ul>
 </li>
 </ul>
-
+<br>
 The rest of the steps are more specific to the computer vision project I was implementing, but still provide some good general workflow guidance:
 <ul class="ul custom">
 <li>Installed OpenCV (inside the venv folder)
@@ -92,7 +92,7 @@ The rest of the steps are more specific to the computer vision project I was imp
       <ul class="ul custom">
       <li>My problem was actually that I was not in the /home directory when running the command above, but for reference, the below commands increase volume size:
         <ul class="ul custom">
-        <li>per <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-modify-volume.html"><Amazon EBS Elastic Volumes/a>
+        <li>per <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-modify-volume.html"><Amazon EBS Elastic Volumes</a>
           <ul class="ul custom">
           <li>aws ec2 modify-volume --region us-east-1 --volume-id vol-0562d5e2f036e1bfb --size 30</li>
           <li>df -h</li>
