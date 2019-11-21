@@ -5,7 +5,6 @@ title: AWS Workflow on OS X
 
 While completing my deep learning project using AWS services, I spent a good amount of time learning the process of moving files between my local machine, S3 buckets, and EC2 instances, setting up the right type of instance to accommodate my volume of data and model training, installing the right version of Python and libraries on the instance, and running Python code on the instance without my script terminating when the SSH connection times out.  I put together this list of steps to refer to in the future, and offer it to others for reference as well.  Where possible, I included links to related AWS documentation articles or other resources.
 
-```html
 <ul class="ul custom">
 <li>Created a new EC2 instance (Amazon Linux AMI) with a 20GB EBS attached (enough disk space for data to be transferred from my S3 bucket), using AWS Console.</li>
 <li>Created and saved keypair .pem file (e.g., aws_20181230.pem) on my local machine in the \Users\{your user name}\.ssh folder.</li>
@@ -147,4 +146,3 @@ The rest of the steps are more specific to the computer vision project I was imp
   </ul>
 </li>
 </ul>
-```
