@@ -5,7 +5,7 @@ title: AWS Workflow on OS X
 
 While completing my deep learning project using AWS services, I spent a good amount of time learning the process of moving files between my local machine, S3 buckets, and EC2 instances, setting up the right type of instance to accommodate my volume of data and model training, installing the right version of Python and libraries on the instance, and running Python code on the instance without my script terminating when the SSH connection times out.  I put together this list of steps to refer to in the future, and offer it to others for reference as well.  Where possible, I included links to related AWS documentation articles or other resources.
 
-<ul class="ul custom">
+<pre><code>
 * Created a new EC2 instance (Amazon Linux AMI) with a 20GB EBS attached (enough disk space for data to be transferred from my S3 bucket), using AWS Console.
 * Created and saved keypair .pem file (e.g., aws_20181230.pem) on my local machine in the \Users\{your user name}\.ssh folder.
 * Navigated to the .ssh folder in my Terminal window and ran “chmod 400 aws_20181230.pem” to set read-only permissions on the file.
@@ -36,9 +36,9 @@ While completing my deep learning project using AWS services, I spent a good amo
       * virtualenv -p /usr/bin/python3.6 python36
       * activated the environment: source /home/ec2-user/venv/python36/bin/activate
       * which python3 (to check that venv python is now the default)
-</ul>
+
 The rest of the steps are more specific to the computer vision project I was implementing, but still provide some good general workflow guidance:
-<ul class="ul custom">
+
 * Installed OpenCV (inside the venv folder)
   * pip install opencv-python
   * checked that it works:
@@ -72,4 +72,4 @@ The rest of the steps are more specific to the computer vision project I was imp
 * Exited / logged out of EC2 instance:
   * disown (more info at: [Keep SSH Sessions running after disconnection](https://unix.stackexchange.com/questions/479/keep-ssh-sessions-running-after-disconnection))
   * exit (just logs out / closes the connection)
-</ul>
+</code></pre>
