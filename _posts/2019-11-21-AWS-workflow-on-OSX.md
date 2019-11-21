@@ -36,9 +36,9 @@ While completing my deep learning project using AWS services, I spent a good amo
       * virtualenv -p /usr/bin/python3.6 python36
       * activated the environment: source /home/ec2-user/venv/python36/bin/activate
       * which python3 (to check that venv python is now the default)
-
+</ul>
 The rest of the steps are more specific to the computer vision project I was implementing, but still provide some good general workflow guidance:
-
+<ul class="ul custom">
 * Installed OpenCV (inside the venv folder)
   * pip install opencv-python
   * checked that it works:
