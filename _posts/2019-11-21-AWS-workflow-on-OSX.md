@@ -92,7 +92,7 @@ The rest of the steps are more specific to the computer vision project I was imp
       <ul class="ul custom">
       <li>My problem was actually that I was not in the /home directory when running the command above, but for reference, the below commands increase volume size:
         <ul class="ul custom">
-        <li>per <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-modify-volume.html"><Amazon EBS Elastic Volumes</a>
+        <li>per <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-modify-volume.html">Amazon EBS Elastic Volumes</a>
           <ul class="ul custom">
           <li>aws ec2 modify-volume --region us-east-1 --volume-id vol-0562d5e2f036e1bfb --size 30</li>
           <li>df -h</li>
@@ -105,6 +105,9 @@ The rest of the steps are more specific to the computer vision project I was imp
     </li>
     </ul>
     <li>checked that data was copied: ls -l s3data/</li>
+  </li>
+  </ul>
+</li>
 <li>Copied my script (Video_Processing.py file) from my local machine to the EC2 instance:
   <ul class="ul custom">
   <li>ran this from the Terminal on my local machine:
